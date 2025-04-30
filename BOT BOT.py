@@ -17,7 +17,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 from langdetect import detect
 
 # ========== إعدادات البوت الأساسية ==========
-BOT_TOKEN = '8161812788:AAHkDmQbuSX0ds5VBIu16OFg3ZuYkgYe2SU'
+BOT_TOKEN = '7869585333:AAFijfzS6uGT6farjDqk1Li8-pmOQJaTJwY'
 UUID = '3eaa425e-09a2-41e8-9334-aa8db190e546'
 IDADMIN = 7038758847  # ID المطور
 bot = telebot.TeleBot(BOT_TOKEN)
